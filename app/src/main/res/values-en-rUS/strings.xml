@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="titulo_del_juego">TITLE OF THE GAME</string>
+    <string name="datos_del_jugador">PLAYER DATA</string>
+    <string name="nombre_del_jugador">Player\'s name</string>
+    <string name="logo">Logo</string>
+    <string name="fecha_nacimiento">Birth date:</string>
+    <string name="todo">ALL</string>
+    <string name="fondo_de_apuestas">Betting Fund</string>
+    <string name="FechaNacDia">Day</string>
+    <string name="FechaNacMes">Month</string>
+    <string name="FechaNacAño">Year</string>
+    <string name="cantidad_de_dados">Number of Dice:</string>
+    <string name="ingresar">Get into</string>
+    <string name="MensajeConsejo">Playing darts is bad since it is a very bad vice, which can greatly damage the economy and mentality. Avoid playing darts more than casino games.</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Practica</string>
+    <string name="titulo_del_juego">TITULO DEL JUEGO</string>
+    <string name="datos_del_jugador">DATOS DEL JUGADOR</string>
+    <string name="nombre_del_jugador">Nombre del jugador</string>
+    <string name="logo">Logo</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento:</string>
+    <string name="todo">TODO</string>
+    <string name="fondo_de_apuestas">Fondo de Apuestas</string>
+    <string name="FechaNacDia">Día</string>
+    <string name="FechaNacMes">Mes</string>
+    <string name="FechaNacAño">Año</string>
+    <string name="cantidad_de_dados">Cantidad de Dados:</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="MensajeConsejo">Jugar dardos es malo ya que es un vicio muy malo, que puede dañar mucho la economia y la mentalidad. Evitar mas jugar a los dardos a los juegos de los casinos.</string>
+</resources>
